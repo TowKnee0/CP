@@ -107,8 +107,6 @@ void p2() {
                 }
             }
         }
-        long long whatever = twelfth + 10 * eleventh + pow(10, 2) * tenth + pow(10, 3) * ninth + pow(10, 4) * eighth + pow(10, 5) * seventh + pow(10, 6) * sixth + pow(10, 7) * fifth + pow(10, 8) * fourth + pow(10, 9) * third + pow(10, 10) * second + pow(10, 11) * first;
-        cout << whatever << "\n";
         ans += twelfth + 10 * eleventh + pow(10, 2) * tenth + pow(10, 3) * ninth + pow(10, 4) * eighth + pow(10, 5) * seventh + pow(10, 6) * sixth + pow(10, 7) * fifth + pow(10, 8) * fourth + pow(10, 9) * third + pow(10, 10) * second + pow(10, 11) * first;
     }
     cout << ans << "\n";
