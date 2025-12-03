@@ -27,6 +27,7 @@ void p1() {
 }
 
 void p2() {
+    // one pass
     long long ans = 0;
     int first, second, third, fourth, fifth, sixth, seventh, eighth, ninth, tenth, eleventh, twelfth;
     int tmp, store;
